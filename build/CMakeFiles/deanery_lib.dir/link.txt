@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libdeanery_lib.a CMakeFiles/deanery_lib.dir/src/Deanery.cpp.o CMakeFiles/deanery_lib.dir/src/Group.cpp.o CMakeFiles/deanery_lib.dir/src/Student.cpp.o CMakeFiles/deanery_lib.dir/src/main.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libdeanery_lib.a

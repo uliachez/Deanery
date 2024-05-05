@@ -1,0 +1,4 @@
+/Users/juliachez/Documents/Документы/Deanery2/build/CMakeFiles/deanery_lib.dir
+/Users/juliachez/Documents/Документы/Deanery2/build/CMakeFiles/Deanery.dir
+/Users/juliachez/Documents/Документы/Deanery2/build/CMakeFiles/edit_cache.dir
+/Users/juliachez/Documents/Документы/Deanery2/build/CMakeFiles/rebuild_cache.dir
